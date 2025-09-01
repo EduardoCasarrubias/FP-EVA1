@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1-PRCATICA 2- DATOS"/>
+        <attribute name="authors" value="ecasa"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 04:29:03 p. m."/>
+        <attribute name="created" value="ZWNhc2E7RURVQVJETzsyMDI1LTA4LTI2OzA0OjIyOjE1IHAuIG0uOzI0OTY="/>
+        <attribute name="edited" value="ZWNhc2E7RURVQVJETzsyMDI1LTA4LTI2OzA0OjI5OjAzIHAuIG0uOzE7MjYwOA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;EDUARDO CASARRUBIAS&quot;" newline="True"/>
+            <output expression="1000" newline="True"/>
+            <output expression="52.5" newline="True"/>
+            <output expression="true" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
