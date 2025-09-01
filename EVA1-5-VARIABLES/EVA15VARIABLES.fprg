@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA15VARIABLES"/>
+        <attribute name="authors" value="ecasa"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-28 04:54:08 p. m."/>
+        <attribute name="created" value="ZWNhc2E7RURVQVJETzsyMDI1LTA4LTI4OzA0OjE2OjMyIHAuIG0uOzI1MDA="/>
+        <attribute name="edited" value="ZWNhc2E7RURVQVJETzsyMDI1LTA4LTI4OzA0OjU0OjA4IHAuIG0uOzE7MjYxMw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nombre" type="String" array="False" size=""/>
+            <declare name="edad" type="Integer" array="False" size=""/>
+            <assign variable="nombre" expression="&quot;Eduardo Casaruubias Gonzalez&quot;"/>
+            <assign variable="edad" expression="17"/>
+            <output expression="nombre" newline="True"/>
+            <output expression="edad" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
